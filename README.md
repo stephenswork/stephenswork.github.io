@@ -1,2 +1,2 @@
-# stephenswork.github.com
+# stephenswork.github.io
 Its my html project
